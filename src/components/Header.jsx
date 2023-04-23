@@ -37,16 +37,16 @@ const Header = () => {
             minWidth: "100%",
             boxShadow: "0px 8px 16px 0px rgba(0,0,0,0.2)",
             zIndex: 1}}>
-                <a href="#" style={{ color: "white", padding: "12px 16px", textDecoration: "none", display: "block" }}>
+                <a href="#" style={{ color: "white", padding: "12px 16px", textDecoration: "none", display: "block",marginBottom:'5px' }}>
             ECRD
           </a>
-          <a href="#" style={{ color: "white", padding: "12px 16px", textDecoration: "none", display: "block" }}>
+          <a href="#" style={{ color: "white", padding: "12px 16px", textDecoration: "none", display: "block",marginBottom:'5px' }}>
             FSR222222
           </a>
-          <a href="#" style={{ color: "white", padding: "12px 16px", textDecoration: "none", display: "block" }}>
+          <a href="#" style={{ color: "white", padding: "12px 16px", textDecoration: "none", display: "block",marginBottom:'5px' }}>
             DS261121
           </a>
-          <a href="#" style={{ color: "black", padding: "12px 16px", textDecoration: "none", display: "block", backgroundColor:'white' , borderRadius:'3px'}}>
+          <a href="#" style={{ color: "black", padding: "12px 16px", textDecoration: "none", display: "block", backgroundColor:'white' , borderRadius:'3px', marginBottom:'5px'}}>
             DS021221
           </a>
           </div>
